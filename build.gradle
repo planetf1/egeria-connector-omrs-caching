@@ -33,7 +33,7 @@ description = 'Egeria OMRS Caching Connector, all OMRS requests will be routed t
 
 ext {
     egeriaversion = '3.12'
-    slf4jVersion = '1.7.36'
+    slf4jVersion = '2.0.6'
     jacksonVersion = '2.13.2'
     jupiterVersion = '5.9.1'
     httpclientVersion = '4.5.13'
